@@ -1,5 +1,5 @@
 ![](#)
 <h1 align="center">Estudante de Informática do SENAC-Tatuapé</h1>
-<h3 align="center">Developer Django & Python!</h3>
+<h3 align="center">Developer Python & Django!</h3>
 
 
